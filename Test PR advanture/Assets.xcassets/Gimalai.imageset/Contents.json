@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1661383134_43-funart-pro-p-panorami-everesta-instagram-48.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

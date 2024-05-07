@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "IMG_6052.JPG",
+      "idiom" : "universal",
+      "resizing" : {
+        "cap-insets" : {
+          "bottom" : 2500,
+          "left" : 1666,
+          "right" : 1666,
+          "top" : 2499
+        },
+        "center" : {
+          "height" : 1,
+          "mode" : "tile",
+          "width" : 1
+        },
+        "mode" : "9-part"
+      }
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
